@@ -1,1 +1,16 @@
-{"name":"nextjs-starter","version":"1.0.0","scripts":{"gen-ignore":"gitignore node"},"dependencies":{"next":"^16.2.4","react":"^19.2.5","react-dom":"^19.2.5"},"devDependencies":{"gitignore":"^0.7.0"}}
+{
+  "name": "nextjs-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "gen-ignore": "gitignore node",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
