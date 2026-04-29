@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "gen-ignore": "gitignore node",
-    "dev": "next dev"
+    "build":"next build",
+    "dev": "next dev",
+    "start":"next start"
   },
   "dependencies": {
     "next": "^16.2.4",
